@@ -3,7 +3,7 @@
 	<author>Ricardo Madriz</author>
 	<_description>A dark theme for Gedit</_description>
 
-	<style background="#f8f8f0" foreground="#282a36" name="cursor"/>
+	<style background="#f8f8f0" foreground="#ffffff" name="cursor"/>
 	<style background="#44475a" name="current-line"/>
 	<style background="#282a36" foreground="#909194" name="line-numbers"/>
 	<style foreground="#ff79c6" name="bracket-match" underline="true"/>
